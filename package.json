@@ -1,0 +1,27 @@
+{
+  "name": "@tomtwo/react-app-rewire-sass",
+  "version": "1.0.1",
+  "description": "wires up node-sass to compile sass files when using react-app-rewired with create-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomtwo/react-app-rewire-sass.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomtwo/react-app-rewire-sass/issues"
+  },
+  "homepage": "https://github.com/tomtwo/react-app-rewire-sass#readme",
+  "peerDependenceis": {
+    "react-app-rewired": "^1.4.0",
+    "react-scripts": "1.1.0"
+  },
+  "dependencies": {
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6"
+  }
+}
